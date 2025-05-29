@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "69da9add-0d27-419a-917e-b92e034a686f",
+    "name": "Lynn Labadie",
+    "phone": "586.327.3045 x0405",
+    "email": "Ryann79@hotmail.com",
+    "job": "Customer Quality Facilitator"
+  },
+  {
+    "id": "079495dc-fa45-4579-9360-a62bf6060c7b",
+    "name": "Carlton Bechtelar",
+    "phone": "999-512-2811 x228",
+    "email": "Trey45@hotmail.com",
+    "job": "Lead Operations Executive"
+  },
+  {
+    "id": "164b6bbe-4d8a-4065-bc6e-982ee75f9d77",
+    "name": "Kenneth Ullrich Jr.",
+    "phone": "824-512-3362 x0881",
+    "email": "Fae.Schmeler@hotmail.com",
+    "job": "Principal Paradigm Executive"
+  },
+  {
+    "id": "7e53c471-fb3b-42db-ad88-b9f32d7b94f4",
+    "name": "Dan Spencer",
+    "phone": "(408) 270-4217 x0978",
+    "email": "Leda.Gerhold@yahoo.com",
+    "job": "Global Web Analyst"
+  },
+  {
+    "id": "12ca409e-b49c-48d1-8f99-0f94d66876b9",
+    "name": "Delores Greenfelder MD",
+    "phone": "1-822-652-7603 x1776",
+    "email": "Maya_Simonis@hotmail.com",
+    "job": "Principal Response Architect"
+  }
+]
